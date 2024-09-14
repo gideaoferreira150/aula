@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    background: #003366;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    margin: 0 15px;
+}
+ul li a{
+    display: block;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu a:hover{
+    background: #0055cc;
+    border-radius: 5px;
+}
+.menu{
+    align-items: center;
+}
+.pt1{
+    text-align: center;
+    background-image: url(img/c1.jpg);
+    background-size: 100%;
+    padding: 350px;
+}
+h1{
+    color: #003366;
+    font-size: 36px;
+}
+p{
+    color: #272727;
+    font-size: 20px;
+}
+.pt2{
+    background-color: #f4f4f4;
+    margin-top: 20px;
+    vertical-align: top;
+    align-items: center;
+}
+.pt2 h2{
+    color: #003366;
+}
+.pt2 p{
+    color: #555555; 
+}
+.pt2 h2, p{
+    padding: 10px;
+    text-align: center;
+}
+.pt2-img1{
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 210px;
+    vertical-align: top;
+}
+.pt2-img1 img{
+    width: 75%;
+    height: auto;
+    padding: 30px;
+    margin-left: 28px;
+}
+.pt2-img2{
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px;
+    vertical-align: top;
+}
+.pt2-img2 img{
+    width: 75%;
+    height: auto;
+    padding: 30px;
+    margin-left: 28px;
+}
+.pt2-img3{
+    background-color: white;
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    vertical-align: top;
+}
+.pt2-img3 img{
+    width: 80%;
+    height: auto;
+    padding: 30px;
+    margin-left: 28px;
+}
+.pt3-img5{
+    width: 40%;
+    display: inline-block;
+}
+.pt3-img5 img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 50px;
+}
+.pt3-text{
+    text-align: justify;
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px;
+    padding: 50px;
+}
+.pt3-text h2{
+    color: #003366;
+    text-align: justify;
+    padding: 10px;
+}
+.pt3-text p{
+    color: #555555;
+    text-align: justify;
+}
+.rod a:hover{
+    background: #0055cc;
+    border-radius: 5px;
+}
